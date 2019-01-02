@@ -1,38 +1,31 @@
-# Front-End-Challange
-Learn Front End Development through CodeWithCoffee Dev Challenge  series.
+## Front End Challange
 
-1.Learn HTML
+**Learn Front End Development through CodeWithCoffee Dev Challenge  series.**
 
-2.Learn CSS
+In this challange what we will be learning:
 
-3.Learn Git
+1. **Learn HTML**
+Refrences:
 
-**HTML**
++ [Codecademy](https://www.codecademy.com/learn/learn-html)
++ [W3 Schools](https://www.w3schools.com/html)
++ [HTML Documentation](https://www.tutorialspoint.com/html5/html5_tutorial.pdf)
 
-1.https://www.codecademy.com/learn/learn-html
+2. **Learn CSS**
++ [Codecademy](https://www.codecademy.com/learn/learn-css)
++ [W3 Schools](https://www.w3schools.com/css/)
++ [CSS Reference](http://cssreference.io/)
 
-2.https://www.w3schools.com/html/
+3. **Learn Git**
+1. [Try Github](https://try.github.io/)
 
-**Documentation-HTML**
+2. [Codecademy](https://www.codecademy.com/learn/learn-git)
 
-1.https://www.tutorialspoint.com/html5/html5_tutorial.pdf
-
-**CSS**
-
-1.https://www.codecademy.com/learn/learn-css
-
-2.https://www.w3schools.com/css/
-
-3.http://cssreference.io/
+3. [Git-It](http://jlord.us/git-it/)
 
 **Quiz(CSS)**
 
 https://skillvalue.com/en/quizzes/front-end/css-beginner-level-2
 
-**Git**
 
-1.https://try.github.io/
 
-2.https://www.codecademy.com/learn/learn-git
-
-3.http://jlord.us/git-it/
