@@ -8,7 +8,7 @@ He thinks of developing a simple ToDo List App. Now he has nothing created but o
 You may **develop the solutions in groups**.
 
 ## Task 
-Her Aki by developing a simple frontend for ToDo list app.
+Help Aki by developing a simple frontend for ToDo list app.
 
 
 ### Level 0 - Easy - HTML Basics
