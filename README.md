@@ -2,7 +2,38 @@
 
 **Learn Front End Development through CodeWithCoffee Dev Challenge  series.**
 
-In this challange what we will be learning:
+
+This repository contains problem statment for CodeWithCoffee Week 1: Front End Challange. 
+
+Refer `Problem Statement/hello-frontend` for a starter project files. 
+
+You can use it as boilerplate for further developing. Don't forget to add a README.md, describing your team name, website idea and member details.
+
+
+**In this challange, we will be learning:**
++ HTML5
++ CSS
++ Bootstrap
+
+### Brownie Points
+
++ Team participation - Preferably in groups of two. Lone wolves are also invited!
++ A Logical Roadmap - Not just a website with bunch of features
++ Responsive Design(Use Bootstrap)
++ UI/UX | Learn what are UI/UX and what are done outside.
++ JS Forms
++ Google Analytics integration
++ User login/profile demo page.
++ Demo Social Media integration
++ Misc - Directory structure and Neat/Readable code
++ Comment appropriately in your code.
+
+
+
+
+---
+
+You can refer these links for basic learning and understanding of Fornt End Frameworks.
 
 1. **Learn HTML**
 Refrences:
