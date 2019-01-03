@@ -9,6 +9,23 @@ Refer `Problem Statement/hello-frontend` for a starter project files.
 
 You can use it as boilerplate for further developing. Don't forget to add a README.md, describing your team name, website idea and member details.
 
+### Directory
+
+```
+/front-end-challange/
+├─┬ Problem Statement
+│ ├─── hello-frontend
+│ │   ├──── Readme.md
+│ ├── README.md
+│ └── …
+|─┬ Submissions
+| |   ├── [Submission Directories here]
+| |   ├── Guidelines.md
+| ├── Readme.md
+| └── …
+|__ README.md
+
+```
 
 **In this challange, we will be learning:**
 + HTML5
